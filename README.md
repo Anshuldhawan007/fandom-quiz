@@ -1,2 +1,4 @@
 # fandom-quiz
- CLI app
+
+ A JS CLI app.
+
