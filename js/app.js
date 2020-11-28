@@ -87,6 +87,7 @@ function powerPlay(obj){
     score = score + 5;
   } else {
     console.log(chalk.red("Wrong Answer"));
+    console.log("Right Answer is : " + chalk.green(obj.answer));
   }
 }
 
